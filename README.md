@@ -13,4 +13,4 @@
   - Now open root directory in cmd
   - Open frontend directory
   - Type in cmd, npm run serve
-  - Open browser and go to (localhost:8081)
+  - Open browser and go to [this url](localhost:8081)
