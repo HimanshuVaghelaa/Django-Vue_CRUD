@@ -6,3 +6,6 @@
 
 ## Steps to run the project
   - Clone the project
+  - Go to root directory and open cmd
+  - Create virtual environment for backend (Click to know how to create virtual environment in python)
+  -[I'm an inline-style link](https://www.google.com)
